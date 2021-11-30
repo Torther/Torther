@@ -1,10 +1,14 @@
-- 👋 你好, 我是 @Torther
-- 👀 我对……感兴趣
-- 🌱 我目前在学习……
-- 💞️ 我想在……上合作
-- 📫 你可以这样联系我……
+## ME?
+Humm, I'm Torther, a college student, half a programmer?
 
-<!---
-Torther/Torther is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## PROGRAMMING？
+- Java Learning 📖
+- Basic HTML5 and CSS 📐
+- JavaScript at the beginning 🎈
+
+## LANGUAGE
+- Proud to use Simplified Chinese ![(P IZV F4@H38NYJ7Y%()T](https://user-images.githubusercontent.com/29655416/143996917-472ce6f3-8d81-414f-a8b2-b3ecd85ad318.png)
+- Less proficient in English
+
+## CONTACT ME
+Mail: i@mol.ink
