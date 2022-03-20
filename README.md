@@ -13,4 +13,4 @@ Humm, I'm Torther, a college student, half a programmer?
 ## CONTACT ME
 Mail: i@mol.ink
 
-![Visited By](https://count.getloli.com/get/@Lakr233?theme=gelbooru)
+![Visited By](https://count.getloli.com/get/@Torther?theme=rule34)
