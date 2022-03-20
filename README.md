@@ -13,4 +13,4 @@ Humm, I'm Torther, a college student, half a programmer?
 ## CONTACT ME
 Mail: i@mol.ink
 
-![card](https://github.com/Torther/netease-music-card/blob/main/card.svg)
+![Visited By](https://count.getloli.com/get/@Lakr233?theme=gelbooru)
