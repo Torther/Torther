@@ -1,8 +1,16 @@
+<!--
 ![Good Morning](https://img.shields.io/badge/Good%20morning-%E6%97%A9%E4%B8%8A%E5%A5%BD-%23FF7F00?labelColor=%23FF0000)
 ![Good afternoon](https://img.shields.io/badge/Good%20afternoon-%E4%B8%AD%E5%8D%88%E5%A5%BD-%2300FF00?labelColor=%23FFFF00)
 ![and](https://img.shields.io/badge/and-%E4%BB%A5%E5%8F%8A-blue?labelColor=blue)
 ![Good evening](https://img.shields.io/badge/Good%20evening-%E6%99%9A%E4%B8%8A%E5%A5%BD-%238B00FF?labelColor=%230000FF)
-## <img src="https://github.com/Torther/Torther/blob/main/wave.gif" width=26px></img> 𝑯𝒆𝒚,𝒏𝒊𝒄𝒆 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖 **_!_**
+-->
+
+<div align=center>
+  
+<h1><img src="https://github.com/Torther/Torther/blob/main/wave.gif" width=26px></img> 𝑯𝒆𝒚,𝒏𝒊𝒄𝒆 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖!<img src="https://github.com/Torther/Torther/blob/main/wave.gif" width=26px></img></h1>
+
+</div>
+
 <div align=center>
 
 [![南极贱畜](https://img.shields.io/badge/QQ-215327120-%23EB1923?logo=Tencent%20QQ)](#)
@@ -15,26 +23,34 @@
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=Torther&left_color=%235b5b5b&right_color=blueviolet)](#)
 
 </div>
-𝑰'𝒎 𝑻𝒐𝒓𝒕𝒉𝒆𝒓 𝒍𝒊𝒗𝒊𝒏𝒈 𝒊𝒏 𝑾𝒆𝒏𝒛𝒉𝒐𝒖, 𝑪𝒉𝒊𝒏𝒂. 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒔𝒕𝒖𝒅𝒚𝒊𝒏𝒈 𝒂𝒕 𝒂 𝒖𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 𝒎𝒂𝒋𝒐𝒓𝒊𝒏𝒈 𝒊𝒏 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚.💻<br>
-𝑰 𝒍𝒐𝒗𝒆♥ 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒂𝒏𝒅 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒄𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆(𝒂𝒇𝒕𝒆𝒓 𝑰 𝒍𝒆𝒂𝒓𝒏 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈🌳)<br>
-𝑰 𝒕𝒉𝒊𝒏𝒌 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒌𝒏𝒐𝒘𝒔 𝒏𝒐 𝒃𝒐𝒓𝒅𝒆𝒓𝒔 𝒂𝒏𝒅 𝒂𝒏𝒚 𝒖𝒔𝒆 𝒐𝒇 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒄𝒐𝒏𝒕𝒆𝒏𝒕 𝒂𝒔 𝒂 𝒘𝒆𝒂𝒑𝒐𝒏 𝒊𝒔 𝒅𝒊𝒔𝒈𝒖𝒔𝒕𝒊𝒏𝒈.
 
-## 💌𝑨𝒎𝒐𝒖𝒕 𝒎𝒆
-#### 💿𝑶𝒑𝒆𝒓𝒂𝒕𝒊𝒏𝒈 𝑺𝒚𝒔𝒕𝒆𝒎
+<div align=center>
+
+𝑰'𝒎 𝑻𝒐𝒓𝒕𝒉𝒆𝒓 𝒍𝒊𝒗𝒊𝒏𝒈 𝒊𝒏 𝑾𝒆𝒏𝒛𝒉𝒐𝒖, 𝑪𝒉𝒊𝒏𝒂. 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒔𝒕𝒖𝒅𝒚𝒊𝒏𝒈 𝒂𝒕 𝒂 𝒖𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 𝒎𝒂𝒋𝒐𝒓𝒊𝒏𝒈 𝒊𝒏 𝒔𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚.💻<br>
+𝑰 𝒍𝒐𝒗𝒆♥ 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒂𝒏𝒅 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒄𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆(𝒂𝒇𝒕𝒆𝒓 𝑰 𝒍𝒆𝒂𝒓𝒏 𝒔𝒐𝒎𝒆𝒕𝒉𝒊𝒏𝒈🌳).<br>
+𝑰 𝒕𝒉𝒊𝒏𝒌 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒌𝒏𝒐𝒘𝒔 𝒏𝒐 𝒃𝒐𝒓𝒅𝒆𝒓𝒔 𝒂𝒏𝒅 𝒂𝒏𝒚 𝒖𝒔𝒆 𝒐𝒇 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒄𝒐𝒏𝒕𝒆𝒏𝒕 𝒂𝒔 𝒂 𝒘𝒆𝒂𝒑𝒐𝒏 𝒊𝒔 𝒅𝒊𝒔𝒈𝒖𝒔𝒕𝒊𝒏𝒈.<br>
+<br>
+════ ⋆❀⋆ ════
+</div>
+
+<div align=center>
+
+## 💌𝑨𝒃𝒐𝒖𝒕 𝒎𝒆💌
+#### 💿𝑶𝒑𝒆𝒓𝒂𝒕𝒊𝒏𝒈 𝑺𝒚𝒔𝒕𝒆𝒎💿
 [![OS-Windows 11](https://img.shields.io/badge/Windows-11%20Beta-%230087ff?logo=Microsoft)](#)
 [![OS-Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-%23ff3f00?logo=Ubuntu)](#)
 [![OS-Arch](https://img.shields.io/badge/Arch-Latest-%2300a4ff?logo=Arch%20Linux)](#)
 [![OS-Android](https://img.shields.io/badge/Android-12-%2379e583?logo=Android)](#)
-#### 🚽𝑫𝒆𝒗𝒊𝒄𝒆𝒔
+#### 🚽𝑫𝒆𝒗𝒊𝒄𝒆𝒔🚽
 [![Device-Phone](https://img.shields.io/badge/Xiaomi-Redmi%20K40-%23f7f7fa?logo=Xiaomi)](#)
 [![Device-Laptop][mechrevo]](#)
-#### 🧰𝑻𝒐𝒐𝒍𝒔
+#### 🧰𝑻𝒐𝒐𝒍𝒔🧰
 [![Tool-IntelliJ-IDEA](https://img.shields.io/badge/IntelliJ-IDEA-%238070fb?logo=IntelliJ%20IDEA)](#)
 [![Tool-Visual-Studio-Code](https://img.shields.io/badge/Visual%20Studio-Code-%230094ff?logo=Visual%20Studio%20Code)](#)
 [![Tool-Edge](https://img.shields.io/badge/Microsoft-Edge-%230095ff?logo=Microsoft%20Edge)](#)
 [![Tool-Ctrl-C](https://img.shields.io/badge/Ctrl-C-red)](#)
 [![Tool-Ctrl-V](https://img.shields.io/badge/Ctrl-V-blue)](#)
-#### 📄𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔
+#### 📄𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔📄
 [![Language-Java](https://img.shields.io/badge/-Java-%23007396?logo=Java&logoColor=white)](#)
 [![Language-JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white)](#)
 [![Language-HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?logo=HTML5&logoColor=white)](#)
@@ -42,17 +58,22 @@
 <br>
 [![Language-zh_CN](https://img.shields.io/badge/zh__CN-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red?style=flat-square)](#)
 [![Language-en_US](https://img.shields.io/badge/en__US-English-blue?style=flat-square)](#)
-#### 🍀𝑶𝒕𝒉𝒆𝒓
+#### 🍀𝑶𝒕𝒉𝒆𝒓🍀
 [![Markdown](https://img.shields.io/badge/-Markdown-black?logo=Markdown&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/-Git-%23F05032?logo=Git&logoColor=white)](#)
 [![Translate](https://img.shields.io/badge/-Google%20Translate-%234285F4?logo=Google%20Translate&logoColor=white)](#)
 
-🌟𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒘𝒆𝒃𝒔𝒊𝒕𝒆<br>
+🌟𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒘𝒆𝒃𝒔𝒊𝒕𝒆🌟<br>
 [![Website](https://img.shields.io/badge/Website-mol.ink-blue?style=for-the-badge)](https://mol.ink)
 
+</div>
 
+<div align=center>
 
+### Genshin Impact
+![GI](https://genshin-card.getloli.com/detail/32/154072887.png)
 
+</div>
 
 
 
