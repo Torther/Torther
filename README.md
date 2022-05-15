@@ -70,7 +70,7 @@
 
 <div align=center>
 
-### Genshin Impact
+### 𝕲𝖊𝖓𝖘𝖍𝖎𝖓 𝕴𝖒𝖕𝖆𝖈𝖙
 ![GI](https://genshin-card.getloli.com/detail/32/154072887.png)
 
 </div>
