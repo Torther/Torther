@@ -34,6 +34,6 @@
 ![WeChat](https://img.shields.io/badge/Neigewind--%23000000?style=social&logo=WeChat)<br>
 ![Telegram](https://img.shields.io/badge/@Torther--%23000000?style=social&logo=Telegram)
 ### Game
-![Steam](https://img.shields.io/badge/Steam-Torther-black?logo=Steam&link=https://steamcommunity.com/id/Torther/)
+<img>https://img.shields.io/badge/Steam-Torther-black?logo=Steam&link=https://steamcommunity.com/id/Torther/</img>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Torther&show_icons=true&theme=dark&count_private=true)
