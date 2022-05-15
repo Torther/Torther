@@ -27,7 +27,7 @@
 [![OS-Android](https://img.shields.io/badge/Android-12-%2379e583?logo=Android)](#)
 #### 🚽𝑫𝒆𝒗𝒊𝒄𝒆𝒔
 [![Device-Phone](https://img.shields.io/badge/Xiaomi-Redmi%20K40-%23f7f7fa?logo=Xiaomi)](#)
-[![Device-Laptop][mechrevo]]()
+[![Device-Laptop][mechrevo]](#)
 #### 🧰𝑻𝒐𝒐𝒍𝒔
 [![Tool-IntelliJ-IDEA](https://img.shields.io/badge/IntelliJ-IDEA-%238070fb?logo=IntelliJ%20IDEA)](#)
 [![Tool-Visual-Studio-Code](https://img.shields.io/badge/Visual%20Studio-Code-%230094ff?logo=Visual%20Studio%20Code)](#)
@@ -44,7 +44,7 @@
 [![Language-en_US](https://img.shields.io/badge/en__US-English-blue?style=flat-square)](#)
 #### 🍀𝑶𝒕𝒉𝒆𝒓
 [![Markdown](https://img.shields.io/badge/-Markdown-black?logo=Markdown&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/-Git-%23F05032?logo=Git&logoColor=white)]()
+[![Git](https://img.shields.io/badge/-Git-%23F05032?logo=Git&logoColor=white)](#)
 [![Translate](https://img.shields.io/badge/-Google%20Translate-%234285F4?logo=Google%20Translate&logoColor=white)](#)
 
 🌟𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒘𝒆𝒃𝒔𝒊𝒕𝒆<br>
