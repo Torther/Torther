@@ -70,6 +70,9 @@
 
 <div align=center>
 
+### 𝓢𝓽𝓪𝓽𝓼
+  
+![stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Torther&theme=default)
 ### 𝕲𝖊𝖓𝖘𝖍𝖎𝖓 𝕴𝖒𝖕𝖆𝖈𝖙
 ![GI](https://genshin-card.getloli.com/detail/32/154072887.png)
 
