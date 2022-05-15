@@ -5,9 +5,9 @@
 ## <img src="https://github.com/Torther/Torther/blob/main/wave.gif" width=26px></img> 𝑯𝒆𝒚,𝒏𝒊𝒄𝒆 𝒕𝒐 𝒔𝒆𝒆 𝒚𝒐𝒖 **_!_**
 <div align=center>
 
-[![南极贱畜](https://img.shields.io/badge/QQ-215327120-%23EB1923?logo=Tencent%20QQ)]()
-[![WeChat](https://img.shields.io/badge/WeChat-Neigewind-%2307C160?logo=WeChat)]()
-[![Telegram](https://img.shields.io/badge/Telegram-%40Torther-%2326A5E4?logo=Telegram)]()
+[![南极贱畜](https://img.shields.io/badge/QQ-215327120-%23EB1923?logo=Tencent%20QQ)](#)
+[![WeChat](https://img.shields.io/badge/WeChat-Neigewind-%2307C160?logo=WeChat)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-%40Torther-%2326A5E4?logo=Telegram)](#)
 [![Steam](https://img.shields.io/badge/Steam-Torther-black?logo=Steam)](https://steamcommunity.com/id/Torther/)
 [![Bilibili](https://img.shields.io/badge/Bilibili-isTorther-%23FFAAAA?logo=Bilibili)](https://space.bilibili.com/100968379)
 [![NeteaseMusic][neteasemusic]](https://music.163.com/#/user/home?id=325139808)
