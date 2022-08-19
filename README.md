@@ -43,12 +43,14 @@
 
 </div>
 
-<details align=center>
+<div align=center>
+<details>
 <summary>More</summary>
 <img src="https://genshin-card.getloli.com/detail/32/154072887.png">
 <hr>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Torther&theme=default">
 </details>
+</div>
 
 <div align=center>
 
