@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning **everything new**
 
-📝 I regularly write articles on [My Blog(unavailable now)](blog.mol.ink)
+📝 I regularly write articles on [My Blog(unavailable now)](https://blog.mol.ink)
 
 📫 How to reach me:
 
