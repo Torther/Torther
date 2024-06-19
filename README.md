@@ -1,6 +1,6 @@
 # Hi 👋, I'm Torther
 
-🏫 I’m have graduated from [Wenzhou Polytechnic](http://www.wzpt.edu.cn/)
+🏫 I’m now work in [Wenzhou Polytechnic](http://www.wzpt.edu.cn/)
 
 🌱 I’m currently learning **front end**
 
